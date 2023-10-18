@@ -1,1 +1,1 @@
-We only provide dataset explained by MLLM for the time being.
+We only provide partial dataset explained by MLLM for the time being.
